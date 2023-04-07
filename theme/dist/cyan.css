@@ -152,6 +152,9 @@ a {
 a:hover {
   color: #36cfc9;
 }
+.ant-btn-primary:hover{
+  background-color: #36cfc9;
+}
 a:active {
   color: #08979c;
 }
