@@ -27955,7 +27955,7 @@ span.ant-radio + * {
   color: rgba(0, 0, 0, 0.85);
   font-weight: 500;
   text-align: left;
-  background: #fafafa;
+  background: rgba(61, 235, 211, 0.4);
   border-bottom: 1px solid #f0f0f0;
   transition: background 0.3s ease;
 }
